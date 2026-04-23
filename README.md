@@ -109,6 +109,3 @@ The final comparison cell produces:
 - A bar chart comparing F1 scores across models
 - `results_atlas.csv` saved to the working directory with full precision/recall/F1/accuracy for each model
 
-## Citation
-
-If you use this code or dataset pipeline in your own work, please cite the original dissertation and the Atlas Fashion Dataset accordingly.
